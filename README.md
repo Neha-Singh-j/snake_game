@@ -1,7 +1,8 @@
 # snake_game
 Snake Game
 This is a classic Snake Game built with JavaScript, HTML, and CSS. The game allows players to control a snake that moves around the screen, eating food, growing in size, and avoiding walls and its own tail.
-
+#Demo
+https://snake-game-cyan-psi.vercel.app/
 <h2>Features:</h2>
 Classic Snake Gameplay: Navigate the snake to eat food and grow.
 Sound Effects: Includes sound effects for movement, food consumption, and game over.
